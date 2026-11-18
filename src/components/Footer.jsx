@@ -10,7 +10,7 @@ const Footer = () => {
                     <img src={logoimage} className='w-32'/>
                 </div>
                 <div className='flex space-x-6 md-6 md:mb-0'>
-                    <a href='#'>  <FaLinkedin className="w-6 h-6 text-blue-700 hover:text-blue-900" /></a>
+                    <a href='https://www.linkedin.com/in/rahul-kl-'>  <FaLinkedin className="w-6 h-6 text-blue-700 hover:text-blue-900" /></a>
                 </div>
             </div>
         </div>
